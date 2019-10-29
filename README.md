@@ -6,3 +6,6 @@ Popravil sem
 Popravil sem še na git hubu
 
 Vzporeden popravek v mapi
+
+Vzporedni popravek iz Gita
+
